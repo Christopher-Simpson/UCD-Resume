@@ -15,3 +15,4 @@ Video 12 - Adding Contact Details: Final Styles
 Video 13 - Setting up the Resume section
 Video 14 - Adding the Resume skills
 Video 15 - Adding a work history timeline (Came across styling issues in Work History and My Skills. They dissapeared through the lesson with the fonts defaulting back to sans serif and none of the spacings, need tutoring help)
+Video 16 - Adding the contact form (CSS Issues resolved)
