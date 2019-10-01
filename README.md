@@ -12,3 +12,4 @@ Video 9 - Three reasons to hire me: Basic structure
 Video 10 - Three reasons to hire me: Content
 Video 11 - Adding Contact Details: Basic Structure
 Video 12 - Adding Contact Details: Final Styles
+Video 13 - Setting up the Resume section
